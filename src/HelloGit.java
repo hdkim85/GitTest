@@ -5,7 +5,8 @@ public class HelloGit {
 
 		System.out.println("Git Test 여긴학원1");
 		System.out.println("집에서 Pull받은 후 작업진행");
-		
+		System.out.println("this is");
+		System.out.println("branch2");
 	}
 
 }
